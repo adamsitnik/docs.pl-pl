@@ -18,7 +18,7 @@ Informacje o problemach i zadaniach dla wszystkich oprócz repozytorium odwoła�
 
 Zapraszamy do poprawienia i zakończenia dokumentacji platformy .NET. Jest to bardzo duże repozytorium obejmujące duży obszar. Jeśli jest to Twoje pierwsze odwiedziny, zapoznaj się z naszymi [planami i projektami](styleguide/labels-projects.md) , aby uzyskać pomoc w nawigowaniu po problemach i projektach w tym repozytorium.
 
-Aby współtworzyć, zapoznaj się z tematem [projekty współpracowników platformy .NET dla społeczności](https://github.com/dotnet/docs/projects/35) . [Przewodnik współautora](CONTRIBUTING.md) zawiera instrukcje dotyczące procedur, których używamy. 
+Aby współtworzyć, zapoznaj się z tematem [projekty współpracowników platformy .NET dla społeczności](https://github.com/dotnet/docs/projects/35) . [Przewodnik współautora](CONTRIBUTING.md) zawiera instrukcje dotyczące procedur, których używamy.
 
 Jeśli interesuje Cię pomoc w migrowaniu istniejącego kodu, który jest przeznaczony dla .NET Framework z [galerii kodu](https://code.msdn.microsoft.com) do aplikacji .NET Core przechowywanych w naszym [repozytorium przykładów](https://github.com/dotnet/samples) i do pobrania z [przeglądarki przykładów](https://docs.microsoft.com/samples/browse), zobacz [galerię kodu. projekt migracji](https://github.com/dotnet/docs/projects/88) . 
 
